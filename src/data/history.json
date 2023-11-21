@@ -1,29 +1,23 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "SMPN 34 JAKARTA",
+    "organisation": "Junior High School",
+    "startDate": "2015",
+    "endDate": "2018",
+    "imageSrc": "history/smpn34jakarta.png"
+  },
+  {
+    "role": "SMAN 80 JAKARTA",
+    "organisation": "Senior High School",
+    "startDate": "2018",
+    "endDate": "2021",
+    "imageSrc": "history/sman80jakarta.png"
+  },
+  {
+    "role": "UNIVERSITAS GUNADARMA",
+    "organisation": "Bachelor Of Informatics",
+    "startDate": "2021",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/universitas_gunadarma.png"
   }
 ]

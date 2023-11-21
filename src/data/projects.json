@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Mini Theater",
+    "imageSrc": "projects/miniTheater.png",
+    "description": "This is a Theater room project made in Blender version 3.6.",
+    "skills": ["Blender"],
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "title": "Project Bioskop",
+    "imageSrc": "projects/bioskop.png",
+    "description": "This is a cinema website project for buying cinema tickets online.",
+    "skills": ["HTML", "CSS", "JS"],
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Tomorrow's Affairs",
+    "imageSrc": "projects/figma.png",
+    "description": "This is a tomorrow's affairs prototype project made with Figma.",
+    "skills": ["Figma"],
+    "source": "https://www.figma.com/proto/gmJeIVUTBrlJVE2ZqgRokg/Khoerul-Akbar_51421607"
   }
 ]
